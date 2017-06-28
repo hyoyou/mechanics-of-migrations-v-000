@@ -9,5 +9,5 @@
  gem 'sqlite3'
  gem 'pry'
  gem 'sinatra-activerecord', :require => 'sinatra/activerecord'
- gem 'rspec'
+ #gem 'rspec' commented out due to irb: warn: can't alias context from irb_context.
  gem 'database_cleaner'
